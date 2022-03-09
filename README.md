@@ -1,3 +1,5 @@
+<img src="/header.png" width=100%/>
+
 # Hi, I'm thejenja_
 - 📚 I’m currently learning **Python, JavaScript**
 
