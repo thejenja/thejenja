@@ -14,6 +14,6 @@ If you want to contact me [go to my website](https://thejenja.github.io/#social)
 
 ### The things I use
 <p align="left"><img src="https://img.shields.io/badge/OS-Windows%2011%2021H2-blue?style=for-the-badge&logo=windows">
-<img src="https://img.shields.io/badge/OS-Linux%20Mint%2020.2-brightgreen?style=for-the-badge&logo=linuxmint">
+<img src="https://img.shields.io/badge/OS-Linux%20Mint%2020.2-brightgreen?style=for-the-badge&logo=linuxmint&logoColor=white">
 <img src="https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visualstudiocode">
-<img src="https://img.shields.io/badge/Browser-Chrome-red?style=for-the-badge&logo=googlechrome"></p>
+<img src="https://img.shields.io/badge/Browser-Chrome-red?style=for-the-badge&logo=googlechrome&logoColor=white"></p>
