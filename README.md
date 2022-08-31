@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hi, my name's Evgeniy Khramov. I'm a 15-year-old web programmer and video creator from Orsk. At the moment I'm learning Python and JavaScript.
+Hi, my name's Evgeniy Khramov. I'm a 16-year-old web programmer and video creator from Orsk. At the moment I'm learning Python and JavaScript.
 
 ### Social media
 
