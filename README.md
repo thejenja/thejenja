@@ -1,7 +1,7 @@
 <img src="/header.png" width=100%/>
 
 ### About me
-Hi, my name's Evgeniy Khramov <b>(thejenja)</b>. I'm a 17-year-old frontend developer.<br>At the moment I'm learning Python and JavaScript.<br>I also do translations on Weblate Hosting
+Hi, my name's Evgeniy Khramov <b>(thejenja)</b>. I'm a 18-year-old frontend developer.<br>At the moment I'm learning Python and JavaScript.<br>I also do translations on Weblate Hosting
 
 ### The things I use
 <p align="left"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
