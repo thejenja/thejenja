@@ -1,14 +1,29 @@
 <img src="/header.png" width=100%/>
 
-### About me
-Hi, my name's Evgeniy Khramov <b>(thejenja)</b>. I'm a 18-year-old frontend developer.<br>At the moment I'm learning Python and JavaScript.<br>I also do translations on Weblate Hosting
+## 🚀 About Me
 
-### The things I use
-<p align="left"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="python"/></p>
-<p align="left"><img src="https://img.shields.io/badge/Windows%2011%20-blue?style=for-the-badge&logo=windows">
-<img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode">
-<img src="https://img.shields.io/badge/Chrome-red?style=for-the-badge&logo=googlechrome&logoColor=white"></p>
+<div align="center">
+  <p>A frontend developer focused on Vue, Laravel, HTML, CSS and JavaScript.</p>
+  <p>I contribute to translations on Hosted Weblate and Crowdin, create memes, and love experimenting with AI.</p>
+</div>
+
+## 🛠️ The Tools I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5" height="35px"/>
+  <img src="https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css&logoColor=white&labelColor=663399" alt="CSS" height="35px"/>
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" height="35px"/>
+  <img src="https://img.shields.io/badge/jQuery-111?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD" alt="jQuery" height="35px"/>
+  <img src="https://img.shields.io/badge/Vue.js-111?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=4FC08D" alt="Vue.js" height="35px"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4" alt="PHP" height="35px"/>
+  <img src="https://img.shields.io/badge/Laravel-111?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20" alt="Laravel" height="35px"/>
+  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js&logoColor=white&labelColor=6DA55F" alt="Node.js" height="35px"/>
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=white&labelColor=3670A0" alt="Python" height="35px"/>
+</p>
+
+## 💻 My Projects
+
+- [🔗 Personal Website](https://thejenja.github.io/) — my personal site with links to my socials.
+- [🎮 marlowMC](https://marlowmc.veliona.no/) — a Minecraft server where music and creativity meet
